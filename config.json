@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productverify",
+        "uuid": 25932500,
+        "checksum": "m7i4dl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
